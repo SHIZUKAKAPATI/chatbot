@@ -16,7 +16,7 @@ tasks = {}
 # ---------------- Headers ----------------
 headers = {
     "User-Agent": "Mozilla/5.0",
-    "Post-Server": "FB Auto Comment Tool by Aarav Shrivastava"
+    "Post-Server": "𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 🖤"
 }
 
 # ---------------- Worker ----------------
@@ -55,11 +55,11 @@ INDEX_HTML = """
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FB Auto Comment Tool by Aarav Shrivastava</title>
+    <title>𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 🖤</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: white;
+            background-color: black;
             color: black;
         }
         .container {
@@ -85,7 +85,7 @@ INDEX_HTML = """
 </head>
 <body>
   <header class="header mt-4">
-    <h2 class="mt-3">FB Auto Comment Tool by Aarav Shrivastava</h2>
+    <h2 class="mt-3">𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 🖤</h2>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data" id="commentForm">
