@@ -60,7 +60,7 @@ INDEX_HTML = """
     <style>
         body {
             background-color: black;
-            color: black;
+            color: white;
         }
         .container {
             max-width: 400px;
